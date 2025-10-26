@@ -1,2 +1,4 @@
-# Hello-world
-This repository is for practicing Github flow
+# About me 
+🎓Student at Bhagwaan Parshuram Institute of Technology
+👩‍💻Learning DSA in C++
+
